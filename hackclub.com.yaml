@@ -2250,7 +2250,7 @@ firehose:
   value: cylindrical-rose-bklwrtred01ytycfprxq1lvm.herokudns.com.
 fix: # jared@hackclub.com / lynn@hackclub.com
   type: CNAME
-  value: cname.vercel-dns.com.
+  value: 8d1bf7125214998b.vercel-dns-016.com.
 fixit:
   ttl: 300
   type: CNAME
