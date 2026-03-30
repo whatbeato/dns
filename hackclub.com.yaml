@@ -2248,6 +2248,9 @@ firehose:
 - ttl: 300
   type: CNAME
   value: cylindrical-rose-bklwrtred01ytycfprxq1lvm.herokudns.com.
+fix: # jared@hackclub.com / lynn@hackclub.com
+  type: CNAME
+  value: cname.vercel-dns.com.
 fixit:
   ttl: 300
   type: CNAME
@@ -4490,6 +4493,9 @@ server.psn:
   ttl: 300
   type: A
   value: 20.207.195.6
+pullquests: # jared@hackclub.com / lynn@hackclub.com
+  type: CNAME
+  value: cname.vercel-dns.com.
 puyallup:
 - octodns:
     lenient: true
