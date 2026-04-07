@@ -5820,6 +5820,9 @@ vi:
 - ttl: 300
   type: CNAME
   value: a05569dabb46ea5b.vercel-dns-016.com.
+vibes: # jared@ or lynn@
+  type: CNAME
+  value: b18296b83a87e452.vercel-dns-016.com.
 vidisha:
 - ttl: 300
   type: CNAME
